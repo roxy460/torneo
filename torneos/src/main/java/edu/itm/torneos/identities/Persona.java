@@ -17,5 +17,6 @@ public class Persona {
     String direccion;
     String cedula;
     String telefono;
+    Data fechaNacimiento;
 }
 
