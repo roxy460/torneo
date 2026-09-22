@@ -16,5 +16,6 @@ public class Persona {
     String celular;
     String direccion;
     String cedula;
+    String telefono;
 }
 
